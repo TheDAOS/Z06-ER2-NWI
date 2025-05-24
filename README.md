@@ -12,7 +12,7 @@ body {
 ```
 
 ##### Add Minecraft Font
-```
+```css
 @font-face {
     font-family: 'Minecraft';
     src: url('https://thedaos.github.io/Z06-ER2-NWI/Minecraft.ttf') format('truetype');
