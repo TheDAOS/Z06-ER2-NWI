@@ -1,6 +1,6 @@
 # Z06-ER2-NWI
 
-##### Add LED Dot-Matrix 400 Font
+#### Add LED Dot-Matrix 400 Font
 ```css
 @font-face {
     font-family: 'LED Dot Matrix';
@@ -11,7 +11,7 @@ body {
 }
 ```
 
-##### Add Minecraft Font
+#### Add Minecraft Font
 ```css
 @font-face {
     font-family: 'Minecraft';
@@ -22,7 +22,7 @@ body {
 }
 ```
 
-##### Add Minecraftia Font
+#### Add Minecraftia Font
 ```css        
 @font-face {
     font-family: 'Minecraftia';
